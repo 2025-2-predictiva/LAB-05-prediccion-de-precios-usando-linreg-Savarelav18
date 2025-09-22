@@ -1,4 +1,4 @@
-#
+# 
 # En este dataset se desea pronosticar el precio de vhiculos usados. El dataset
 # original contiene las siguientes columnas:
 #
